@@ -30,3 +30,7 @@ Contributions to the React Notes Keeper project are welcome! If you find any iss
 ### Acknowledgements
 
 The React Notes Keeper project was inspired by the need for a simple note-taking application built with React. Special thanks to the open-source community for providing valuable resources and libraries that made this project possible.
+
+<img width="1440" alt="Screenshot 2023-07-05 at 12 27 54 PM" src="https://github.com/imanshu822/KeePer-Website-Using-React/assets/93573185/768a8f7e-1ef1-473c-bea7-06c5f1b76f2b">
+
+
